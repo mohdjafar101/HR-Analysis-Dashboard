@@ -18,3 +18,6 @@ Help on organizationto improve employee performance and and improve employee ret
 - Top Attrition by Education
 - Attrition by Salary Slab
 - Dashboard Interaction View Dashboard <a href="https://github.com/mohdjafar101/HR-Analysis-Dashboard/blob/main/HR%20Analytics%20project%20dashboard.jpeg">Dashboard</a>
+
+## Dashboard
+![HR Analytics project dashboard](https://github.com/user-attachments/assets/65ac7ad8-edda-499a-aab3-ddc34f5d790f)
