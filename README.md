@@ -41,3 +41,10 @@ Attrition was observed across both genders almost proportionally, with a slightl
 - Departmental Focus:
 Most attrition incidents occurred in the Sales and Research & Development departments.
 
+## Final Conclusion
+The HR analysis shows that most employees leave within their first year, especially in sales and technical roles.
+Low salary and lack of engagement are the main reasons for attrition.
+By improving onboarding, offering better salaries, and focusing on key departments, the company can reduce employee turnover.
+
+
+
