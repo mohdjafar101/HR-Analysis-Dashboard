@@ -21,3 +21,23 @@ Help on organizationto improve employee performance and and improve employee ret
 
 ## Dashboard
 ![HR Analytics project dashboard](https://github.com/user-attachments/assets/65ac7ad8-edda-499a-aab3-ddc34f5d790f)
+
+## Project Insights – HR Analytics Dashboard
+- Major Attrition Age Group:
+The highest attrition occurred in the 26-35 years age group, with 116 employees leaving the organization.
+
+- Education Background Impact:
+The majority of attrition was seen among employees with Life Sciences (37.39%) and Medical (26.47%) educational backgrounds.
+
+- Salary Influence:
+Attrition was significantly higher among employees earning up to 5K, accounting for 163 resignations.
+
+- Job Roles Most Affected:
+The highest number of resignations were recorded among Laboratory Technicians (62), Sales Executives (58), and Research Scientists (47).
+
+- Gender-wise Attrition:
+Attrition was observed across both genders almost proportionally, with a slightly higher number among males.
+
+- Departmental Focus:
+Most attrition incidents occurred in the Sales and Research & Development departments.
+
