@@ -6,7 +6,7 @@ Help on organizationto improve employee performance and and improve employee ret
 ## Dataset
 - <a href="https://github.com/mohdjafar101/HR-Analysis-Dashboard/blob/main/HR_Analytics%20Project.pbip">Dataset</a>
 
-## Key KPIs (Key Performance Indicators):
+## Key KPIs (Key Performance Indicators)
 - Employee Count
 - Attrition Count
 - Attrition Rate
